@@ -1,5 +1,5 @@
 # TUGAS-APSI-Farrel-Orlando-Ho-2024083012
-[alt text](BRD.docx)
+[BRD](BRD.docx)
 ![alt text](1.png)
 ![alt text](2.png)
 ![alt text](3.png)
